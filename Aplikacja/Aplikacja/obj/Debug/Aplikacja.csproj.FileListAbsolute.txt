@@ -78,7 +78,11 @@ C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\Microsoft.AI.De
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\Microsoft.AI.Web.xml
-C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojResolveAssemblyReference.cache
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
 C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\max\Documents\Ksiazka-Kucharska\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojResolveAssemblyReference.cache
